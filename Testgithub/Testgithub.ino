@@ -1,3 +1,5 @@
+byte a = 45;
+
 void setup() {
   // put your setup code here, to run once:
 
